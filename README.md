@@ -1,5 +1,5 @@
 # best-repo-ever
 
-This is a simple change and I'm updating the original change.
+This is a simple change on the first line as well.
 
 This is another change.
